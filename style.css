@@ -1,0 +1,48 @@
+body{
+  font-family:Lobster;
+  color:white;
+}
+
+#pageOne{
+  background: -webkit-linear-gradient(Thistle,Plum,HotPink);
+background-size:cover;
+height:500px; 
+}
+#pagetwo{
+    background: -webkit-linear-gradient(LemonChiffon,Bisque,Wheat,sandyBrown);
+  background-size:cover;
+  height:750px;
+ 
+}
+#pagethree{
+    
+    background: -webkit-linear-gradient(LightBlue,SkyBlue,DodgerBlue);
+    
+  background-size:cover;
+  height:300px;
+}
+.nav-pills{
+font-family:Lobster;
+font-size:25px;
+ background-color:black;
+  opacity:.7;
+}
+#anjali{
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate( -50%, -50%);
+  font-size:50px;
+  color:white;
+   font-family:Lobster;
+}
+
+#anj{
+  left: 50%;
+  position: absolute;
+  top: 80%;
+  transform: translate( -50%, -50%);
+  font-size:30px;
+  color:white;
+   font-family:Lobster;
+}
